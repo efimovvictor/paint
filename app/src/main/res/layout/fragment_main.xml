@@ -1,4 +1,4 @@
-<com.deitel.doodlz.DoodleView
+<com.victor.paint.PaintView
    xmlns:android="http://schemas.android.com/apk/res/android"
    xmlns:tools="http://schemas.android.com/tools"
    android:id="@+id/doodleView"
@@ -12,4 +12,4 @@
    tools:context=".MainActivityFragment"
    tools:showIn="@layout/activity_main">
 
-</com.deitel.doodlz.DoodleView>
+</com.victor.paint.PaintView>
